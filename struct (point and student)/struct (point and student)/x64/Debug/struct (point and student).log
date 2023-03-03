@@ -1,0 +1,4 @@
+﻿  struct (point and student).cpp
+C:\Users\n1249\source\repos\struct (point and student)\struct (point and student)\struct (point and student).cpp(55,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\n1249\source\repos\struct (point and student)\struct (point and student)\struct (point and student).cpp(61): warning C4715: student::testscore: значение возвращается не при всех путях выполнения
+  struct (point and student).vcxproj -> C:\Users\n1249\source\repos\struct (point and student)\x64\Debug\struct (point and student).exe
